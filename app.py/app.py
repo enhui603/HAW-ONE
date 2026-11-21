@@ -10,7 +10,7 @@ from datetime import date, datetime, timedelta
 import pandas as pd
 import streamlit as st
 
-st.set_page_config(page_title="HAW-ONE", page_icon=os.path.join(os.path.dirname(os.path.abspath(__file__)), "assets", "haw_sim.png"), layout="wide")
+st.set_page_config(page_title="HAW-ONE", page_icon=os.path.join(os.path.dirname(os.path.abspath(__file__)), "assets", "Haw one Logo.jfif"), layout="wide")
 
 # =====================================================================
 # SETTINGS
